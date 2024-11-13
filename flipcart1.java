@@ -1,3 +1,6 @@
+
+
+
 public class SumOfNumbers {
     public static void main(String[] args) {
         int sum = 0;
@@ -11,3 +14,7 @@ public class SumOfNumbers {
         System.out.println("The sum of the first 10 numbers is: " + sum);
     }
 }
+
+
+hello world
+
